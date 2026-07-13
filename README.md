@@ -1,4 +1,4 @@
-# ⌨️ Tablify - Interactive SQL Architect
+# ⌨️ Frictionery - Interactive SQL Architect
 
 > [!IMPORTANT]
 > **PROTOTYPE NOTE (v1):** This project is currently a **Proof of Concept**. 
